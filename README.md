@@ -632,9 +632,3 @@ sudo systemctl enable crio
 sudo systemctl start crio
 ```
 
-### Using CRI-O
-
-- Follow this [tutorial](tutorials/crictl.md) to quickly get started running simple pods and containers.
-- To run a full cluster, see [the instructions](tutorials/kubernetes.md).
-- To run with kubeadm, see [kubeadm instructions](tutorials/kubeadm.md).
-
